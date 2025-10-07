@@ -3,5 +3,3 @@ heat it on stove
 add masala spicies
 stir
 add pasta
-change from github remote repo directly
-changing local repo file to demonstrate conflict
